@@ -1,0 +1,6 @@
+2024-01-01 Paris Ordinateur 1200
+2024-01-02 Lyon Telephone 800
+2024-01-03 Paris Tablette 600
+2024-01-04 Marseille Ordinateur 1100
+2024-02-01 Lyon Telephone 750
+2023-02-02 Paris Ordinateur 1300
